@@ -1,0 +1,13 @@
+# VMware-Destroyer 依赖项
+# Python 3.6+
+
+# 核心依赖
+pywin32==306
+psutil==5.9.5
+Pillow==10.0.0
+
+# GUI 依赖
+tk==0.1.0
+
+# 其他工具
+requests==2.31.0
